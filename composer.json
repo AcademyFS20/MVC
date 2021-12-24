@@ -1,0 +1,19 @@
+{
+    "name": "meryem/mvc",
+    "autoload": {
+        "psr-4": {
+            "Chat\\": "src/Controllers",
+            "Provider\\": "src/Providers",
+            "Models\\": "models"
+        }
+        
+        
+    },
+    "authors": [
+        {
+            "name": "MERYEM-ESSM",
+            "email": "mariamtouimi99@gmail.com"
+        }
+    ],
+    "require": {}
+}
